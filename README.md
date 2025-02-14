@@ -27,8 +27,14 @@ Además, cuento con conocimientos en 3D, 2D, producción de audio, ilustración 
 
 
 
-### Sara
+### Sara Valentina Torres Hernández 
+**Ubicacion:** Sopó, Cundinamarca
 
+**Sobremi:**
+Hola  a todos Mi nombre es Sara Torres, tengo 20 años, actualmente estoy en 7mo semestre de Ingeniería multimedia, y trabajo como auxiliar de ventas en una óptica. Me apasiona mucho la fotografía y el diseño, he tenido la oportunidad de aprender en varios cursos, y también de ponerlo en practica en diferentes proyectos, también tengo las bases acerca de la creación y edición de videos y contenidos para redes sociales, animación 2D y 3D. Me considero una persona creactiva, me gusta constantemente generar nuevas ideas, especialmente aquellas que brindan una solución a otros. 
+El rol que me llamo la atención fue el de Artista splash art, es un rol que, aunque parece básico es importante para generar una continuidad con el usuario dentro del juego, pues este permite que el usuario tenga una buena experiencia mientras carga el juego.
+**Rol en el desarrollo de videojuegos:** *Artist Splas Art*
+Es un rol que, aunque parece básico es importante para generar una continuidad con el usuario dentro del juego, pues este permite que el usuario tenga una buena experiencia mientras carga el juego. Me gusta este rol, porque también incluye el ilustrar el logotipo que también es esencial para que el jugador al verlo quiera obtener el juego y también involucra otros partes, como el marketing del videojuego, que es un área que a mi me apasiona. 
 
 ### Joel
 
