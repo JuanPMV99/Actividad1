@@ -38,7 +38,19 @@ Es un rol que, aunque parece básico es importante para generar una continuidad 
 
 ### Joel
 
+**Ubicacion:** Zipaquirá, Cundinamarca
 
+**Sobremi:**
+Soy Joel David Maure Colón, estudiante de Séptimo Semestre de Ingeniería Multimedia un apasionado del mundo multimedia con experiencia en edición de video, animación, modelado 3D y diseño sonoro. Desde el inicio de mi trayectoria, me he dedicado a perfeccionar mis habilidades como ingeniero multimedia.
+ 
+Uno de los aspectos que más me ha cautivado es el desarrollo de videojuegos y la creación de entornos interactivos. Me encanta diseñar experiencias inmersivas que no solo sean visualmente atractivas, sino que también conecten con la audiencia a nivel narrativo y emocional.
+ 
+**Rol en el desarrollo de videojuegos:** *Quality Assurance*
+Sin embargo, en este proceso creativo me he dado cuenta de la importancia del Control de Calidad (QA) en el desarrollo de videojuegos. A medida que trabajaba en modelado 3D y animación, empecé a notar cómo pequeños detalles pueden marcar una gran diferencia en la experiencia del usuario. Errores en la física, problemas de iluminación, bugs en animaciones o incluso detalles en la interfaz pueden afectar la inmersión y jugabilidad.
+ 
+Esto despertó en mí una gran curiosidad por el rol de QA, ya que no solo implica encontrar errores, sino también garantizar que cada aspecto del juego funcione de manera óptima y cumpla con los estándares de calidad. Me interesa especialmente el testing funcional y de experiencia de usuario, ya que permite evaluar cómo un videojuego se siente y responde en diferentes escenarios.
+ 
+Ahora, mi objetivo es seguir explorando esta área y fortalecer mis conocimientos en metodologías de prueba, herramientas de debugging y control de versiones. Creo que mi experiencia en arte digital y mi ojo para los detalles me brindan una perspectiva valiosa para desempeñarme en QA y contribuir al desarrollo de videojuegos más pulidos y envolventes.
 
 
 
