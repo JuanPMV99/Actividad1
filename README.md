@@ -54,4 +54,20 @@ Ahora, mi objetivo es seguir explorando esta área y fortalecer mis conocimiento
 
 
 
+### Stiven
+
+**Ubicacion:** Zipaquirá, Cundinamarca
+
+**Sobremi:**
+Soy Stiven Sánchez, estudiante de Séptimo Semestre de Ingeniería Multimedia y un apasionado del mundo multimedia, con experiencia en ilustración , animación, modelado 3D. Desde el inicio de mi trayectoria, me dediqué a perfeccionar mis habilidades en el arte digital, enfocándome especialmente en el modelado 3D con herramientas como ZBrush y Maya. Me encanta dar vida a personajes para videojuegos, capturando detalles, texturas y expresiones que aporten identidad y realismo.
+
+ 
+ 
+**Rol en el desarrollo de videojuegos:** *Diseñador de Niveles*
+A lo largo de mi proceso creativo, descubrí un rol que me llamó especialmente la atención: el Diseño de Niveles. Este campo me fascina porque combina la parte artística con el diseño estructural de los videojuegos. Un diseñador de niveles no solo crea los escenarios y misiones, sino que también se encarga de establecer los límites del mundo del juego, mantener la coherencia visual y asegurar que cada entorno sea inmersivo y funcional. Me motiva la idea de diseñar espacios que guíen al jugador, equilibren la jugabilidad y contribuyan a la narrativa.
+
+Además de mi interés en la creación de personajes, quiero seguir explorando el diseño de niveles, aprendiendo más sobre la integración de activos 3D en entornos interactivos y la construcción de experiencias inmersivas. Mi objetivo es fusionar mis habilidades en modelado con el diseño de espacios, creando mundos envolventes que no solo sean visualmente impactantes, sino que también envolventes
+
+
+
 
